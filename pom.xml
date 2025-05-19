@@ -16,8 +16,8 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<sonar.projectKey>diegobotia_labfake</sonar.projectKey>
-		<sonar.organization>diegobotia</sonar.organization>
+		<sonar.projectKey>vasquezEmanuel_labfake</sonar.projectKey>
+		<sonar.organization>vasquezemanuel</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
